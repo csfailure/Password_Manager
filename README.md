@@ -3,10 +3,10 @@
  
  commands:
  
- gp -- get password
- cp -- create password
- sp -- show passwords
- up -- update password
- dp -- delete password
+ gp -- get password <br />
+ cp -- create password <br />
+ sp -- show passwords <br />
+ up -- update password <br />
+ dp -- delete password <br />
 
 motivated by Kalle Hallden's python project
